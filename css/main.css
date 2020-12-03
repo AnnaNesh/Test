@@ -1,0 +1,168 @@
+body {
+    font-family: "Lato", serif;
+  }
+  .main_title{
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 86px;
+    margin-bottom: 0px;
+    color: white; 
+  }
+  .title{
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 44px;
+  }
+  .subtitle{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    color:white;
+  }
+  .text{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+  }
+  .plain-text{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+  }
+  .small-text{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+  }
+  .header{
+    background-color: #d52047;
+    text-align: center;
+    color:white
+  }
+  .main-nav {
+    display:inline-block;
+    align-items: center;
+    text-align: center;
+  }
+  .main-nava {
+    color:white;
+    text-transform: uppercase;
+  }
+  .start{
+    background-color: #d52047;
+    text-align: center;
+  }
+  .play-button{
+    background-color: #ed4C5C;
+    height: 66px;
+    width: 66px;
+    border-radius: 40px;
+    border:none;
+  }
+  .video {
+    width: 540px;
+    height: 311px;
+  }
+  .button_login {
+    background-color: #d52047;
+    padding: 12px 28px;
+    text-align: center;
+    font-size: 14px;
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 6px;
+    color:white
+  }
+  .button_login:hover {
+    background-color: lavender;
+  }
+  .button_login:active {
+    background-color: green;
+  }
+  .button:focus {
+    background-color: blue;
+  }
+  .button_signup {
+    background-color: white;
+    padding: 20px 52px;
+    text-align: center;
+    font-size: 14px;
+    border-radius: 6px;
+    color:#ee3d1b
+  }
+  .button_signup:hover {
+    background-color: pink;
+  }
+  .button_signup:active {
+    background-color: yellow;
+  }
+  .button_signup:focus {
+    background-color: orange;
+  }
+  .button_submit {
+    background-color: #ed4c5c;
+    border: 1.5px solid #ed4c5c;
+    padding: 20px 36px;
+    text-align: center;
+    font-size: 14px;
+    color:white; 
+    border-radius: 6px;
+  }
+  .button_submit:hover {
+    background-color:palevioletred;
+  }
+  .button_submit:active {
+    background-color: yellowgreen;
+  }
+  .button_submit:focus {
+    background-color: gray;
+  }
+  .button_readmore {
+    background-color: white;
+    border: none;
+    padding: 3px 97px;
+    text-align: center;
+    font-size: 12px;
+    color: #ed4c5c
+  }
+  .button_readmore:hover {
+    background-color:pink;
+  }
+  .button_readmore:active {
+    background-color: yellow;
+  }
+  .button_readmore:focus {
+    background-color: blue;
+  }
+  .input_text {
+    width: 255px;
+    height: 60px;
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    color:gray; 
+    margin-bottom: 30px;
+  }
+  .input_tel {
+    width: 540px;
+    height: 60px;
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    color:gray; 
+    margin-bottom: 30px;
+  }
+  select {
+    background: none; 
+    appearance: none;
+    width: 540px;
+    height: 60px;
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin-bottom: 30px;
+    color: #333333
+  }
+  input:focus { 
+    color:red; 
+  }
